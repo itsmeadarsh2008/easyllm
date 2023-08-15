@@ -1,4 +1,4 @@
-<h1 align="center">EasyLLM - </h1>
+<h1 align="center">EasyLLM</h1>
 
 <div align="center">
 	<a  href="https://pypi.org/project/easyllm" target="_blank">
@@ -33,8 +33,6 @@ EasyLLM implements clients that are **compatible with OpenAI's Completion API**.
   * `sagemaker.ChatCompletion` - Chat with LLMs
   * `sagemaker.Completion` - Text completion with LLMs
   * `sagemaker.Embedding` - Create embeddings with LLMs
-
-Check out the [Examples](./examples) to get started.
 
 ## 🚀 Getting Started
 
